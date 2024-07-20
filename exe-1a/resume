@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            font-family: 'Georgia', serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .header, .section {
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        .header p {
+            margin: 5px 0;
+        }
+        .section h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        .section p {
+            margin: 5px 0;
+        }
+        .job-title {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Mukesh Kumarr M </h1>
+            <p>Email: mr.randamonium@gmail.com</p>
+            <p>Phone: (+971) 456-7890</p>
+            <p>LinkedIn: linkedin.com/in/mukeshkumarrmurugan</p>
+        </div>
+
+        <div class="section">
+            <h2>About me</h2>
+            <p>Experienced software developer with a strong background in developing scalable web applications and working with cross-functional teams. Passionate about technology and always eager to learn new skills.</p>
+<p> Also well versed in artificial intelligence and experienced in quantum computing </p>
+        </div>
+
+        <div class="section">
+            <h2>Experience</h2>
+            <p class="job-title">Senior Software Developer - Emirates </p>
+            <p>Jan 2026 - Present</p>
+            <ul>
+                <li>Developed and maintained web applications using JavaScript, HTML, and CSS.</li>
+                <li>Collaborated with designers and back-end developers to create a seamless user experience.</li>
+                <li>Mentored junior developers and conducted code reviews.</li>
+            </ul>
+
+            <p class="job-title">Software Developer - google </p>
+            <p>Jun 2028 - Dec 2031</p>
+            <ul>
+                <li>Implemented new features and fixed bugs for the company's main product.</li>
+                <li>Worked with a team to migrate legacy code to a modern tech stack.</li>
+                <li>Participated in Agile development processes and sprint planning.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <p class="job-title">Bachelor of Science in Computer Science And Engineering </p>
+            <p>University of Rajalakshmi Engineering College , 2022 - 2026</p>
+        </div>
+
+        <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>JavaScript</li>
+                <li>HTML/CSS</li>
+                <li>React</li>
+                <li>Node.js</li>
+                <li>Agile Development</li>
+                <li>Version Control (Git)</li>
+               <li>quantum computing</li>
+               <li>python</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
